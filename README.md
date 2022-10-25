@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so if you are a frontend developer...feel free to contribute
+BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so if you are a frontend developer...feel free to contribute!
 
 ### What is Atomic Design?
 **Atomic design** is methodology for creating design systems. There are five distinct levels in atomic design:
