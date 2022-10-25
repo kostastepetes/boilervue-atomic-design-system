@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kostastepetes/boilervue-atomic-design-system">
-    <img src="img/logo.png" alt="Logo" width="300" height="300">
+    <img src="public/boiler-vue.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">BoilerVue</h3>
