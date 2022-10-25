@@ -60,15 +60,18 @@
 
 BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so if you are a frontend developer...feel free to contribute
 
-Documentation Website: 
+### What is Atomic Design?
+Atomic design is methodology for creating design systems. There are five distinct levels in atomic design:
+1. Atoms: Atoms are the basic building blocks of matter. Applied to web interfaces, atoms are our HTML tags, such as a form label, an input or a button.
+2. Molecules: Molecules are groups of atoms bonded together and are the smallest fundamental units of a compound.
+3. Organisms: Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface.
+4. Templates: Templates consist mostly of groups of organisms stitched together to form pages.
+5. Pages: Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will ultimately see.
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/kostastepetes/sqky-css-library/blob/main/index.html)
+Atomic Design: 
 
-Demo Website: 
+[![Product Name Screen Shot][product-screenshot]](https://github.com/kostastepetes/boilervue-atomic-design-system/blob/main/public/atomic-design-process.png)
 
-[![Product Name Screen Shot][product-screenshot2]](https://github.com/kostastepetes/sqky-css-library/blob/main/homepage.html)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -175,7 +178,6 @@ Project Link: [https://github.com/kostastepetes/boilervue-atomic-design-system](
 [issues-url]: https://github.com/kostastepetes/boilervue-atomic-design-system/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kostas-tepetes
-[product-screenshot]: img/screenshot_docs.png
-[product-screenshot2]: img/screenshot_demo.png
+[product-screenshot]: public/atomic-design-process.png
 [Vue]: https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white
 [Vue-url]: https://vuejs.org/
