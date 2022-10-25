@@ -61,12 +61,12 @@
 BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so if you are a frontend developer...feel free to contribute
 
 ### What is Atomic Design?
-Atomic design is methodology for creating design systems. There are five distinct levels in atomic design:
-1. Atoms: Atoms are the basic building blocks of matter. Applied to web interfaces, atoms are our HTML tags, such as a form label, an input or a button.
-2. Molecules: Molecules are groups of atoms bonded together and are the smallest fundamental units of a compound.
-3. Organisms: Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface.
-4. Templates: Templates consist mostly of groups of organisms stitched together to form pages.
-5. Pages: Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will ultimately see.
+**Atomic design** is methodology for creating design systems. There are five distinct levels in atomic design:
+1. **Atoms**: Atoms are the basic building blocks of matter. Applied to web interfaces, atoms are our HTML tags, such as a form label, an input or a button.
+2. **Molecules**: Molecules are groups of atoms bonded together and are the smallest fundamental units of a compound.
+3. **Organisms**: Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface.
+4. **Templates**: Templates consist mostly of groups of organisms stitched together to form pages.
+5. **Pages**: Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will ultimately see.
 
 Atomic Design: 
 
