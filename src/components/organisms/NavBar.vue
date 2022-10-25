@@ -11,7 +11,7 @@
     <div class="nav-bar-cell right">
       <AppLink
         label="Github"
-        path="https://github.com/sakihet/vue-atomic-design-template"
+        path="https://github.com/kostastepetes/boilervue-atomic-design-system"
         :isNewWindow='true'
       />
     </div>
