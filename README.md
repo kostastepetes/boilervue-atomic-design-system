@@ -68,7 +68,7 @@ BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so 
 4. **Templates**: Templates consist mostly of groups of organisms stitched together to form pages.
 5. **Pages**: Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will ultimately see.
 
-Atomic Design: 
+**Atomic Design**: 
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/kostastepetes/boilervue-atomic-design-system/blob/main/public/atomic-design-process.png)
 
