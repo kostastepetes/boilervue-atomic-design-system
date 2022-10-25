@@ -75,7 +75,7 @@ Demo Website:
 ### Built With
 
 
-* [![Vue][Sass]][Vue-url]
+* [![Vue][Vue]][Vue-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
