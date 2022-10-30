@@ -5,6 +5,7 @@
     <h2> {{ msg2 }}</h2>
     <h3> {{ msg3 }}</h3>
     <h3> {{ msg4 }}</h3>
+    <img src="../../assets/atomic-design-process.png" width="1350px" height="450px">
   </div>
   
 </template>
