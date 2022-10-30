@@ -95,10 +95,11 @@ BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so 
   npm install npm@latest -g
   ```
   
-  * vue.js
+ * vue.js
   ```sh
   npm init vue@latest
   ```
+  
   
 
 ### Installation
@@ -110,6 +111,10 @@ BoilerVue is an Atomic Design System for Vue.js. It's an Open Source Project so 
 2. Install NPM packages
    ```sh
    npm install
+   ```
+3. Run It!
+   ```sh
+   npm run serve
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
