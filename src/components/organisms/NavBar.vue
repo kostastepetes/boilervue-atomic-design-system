@@ -58,7 +58,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .nav-bar {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgb(60, 130, 65);
   display: flex;
 }
 .left {
