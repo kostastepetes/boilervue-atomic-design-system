@@ -1,7 +1,7 @@
 <template>
   <div class="app-footer">
     <hr>
-    <p>Footer</p>
+    <p>Footer | BoilerVue Copyright 2022</p>
   </div>
 </template>
 
@@ -22,5 +22,6 @@ export default {
 }
 .app-footer p {
   text-align: center;
+  margin-top: 50px;
 }
 </style>

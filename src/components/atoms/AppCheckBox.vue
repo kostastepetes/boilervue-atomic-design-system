@@ -40,7 +40,7 @@ export default {
 }
 .checkbox-input:checked + .checkbox-parts{
   color: #108860;
-  
+}
 .checkbox-input:checked + .checkbox-parts::after{
   content: "";
   display: block;

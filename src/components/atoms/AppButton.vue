@@ -24,24 +24,23 @@ export default {
 
 <style scoped>
 .square {
-  color: #4fc08d;
+  color: #000000;
   border-color: #4fc08d;
   padding: 0.5em;
-  box-shadow: 0.5px 0.5px;
+  box-shadow: 0.5px 0.2px;
 }
 .square:hover {
   color: #ffffff;
   background-color: #4fc08d;
 }
 .round {
-  -webkit-appearance:none;
   color: #ffffff;
   background-color: #4fc08d;
   font-weight:bold;
   text-decoration:none;
   text-align:center;
   padding:6px 10px 6px 10px;
-  border-radius:20px;
+  border-radius: 16px;
   border-color: #4fc08d; 
 }
 </style>
