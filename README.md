@@ -19,7 +19,7 @@
     <a href="https://github.com/kostastepetes/boilervue-atomic-design-system"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kostastepetes/boilervue-atomic-design-system/blob/main/homepage.html">View Demo</a>
+    <a href="https://github.com/kostastepetes/boilervue-atomic-design-system">View Demo</a>
     ·
     <a href="https://github.com/kostastepetes/boilervue-atomic-design-system/issues">Report Bug</a>
     ·
