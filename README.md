@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kostastepetes/boilervue-atomic-design-system">
-    <img src="public/boiler-vue.png" alt="Logo" width="300" height="300">
+    <img src="src\assets\boiler-vue.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">BoilerVue</h3>
@@ -178,6 +178,6 @@ Project Link: [https://github.com/kostastepetes/boilervue-atomic-design-system](
 [issues-url]: https://github.com/kostastepetes/boilervue-atomic-design-system/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kostas-tepetes
-[product-screenshot]: public/atomic-design-process.png
+[product-screenshot]: src/assets/atomic-design-process.png
 [Vue]: https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white
 [Vue-url]: https://vuejs.org/
