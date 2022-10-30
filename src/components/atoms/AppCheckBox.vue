@@ -39,8 +39,8 @@ export default {
   border-radius: 4px;
 }
 .checkbox-input:checked + .checkbox-parts{
-  color: #009a9a;
-}
+  color: #108860;
+  
 .checkbox-input:checked + .checkbox-parts::after{
   content: "";
   display: block;

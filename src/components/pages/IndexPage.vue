@@ -9,7 +9,7 @@ export default {
   name: 'IndexPage',
   data () {
     return {
-      msg: 'Welcome to vue-atomic-design-template'
+      msg: 'Welcome to boilervue-atomic-design-system'
     }
   }
 }
